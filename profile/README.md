@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/licht-launcher/licht-launcher/actions/workflows/ci.yml"><img src="https://github.com/licht-launcher/licht-launcher/actions/workflows/ci.yml/badge.svg?branch=main" alt="Launcher CI"></a>
-  <a href="https://github.com/licht-launcher/licht-launcher/releases/latest"><img src="https://img.shields.io/github/v/release/licht-launcher/licht-launcher?label=latest%20release" alt="Latest release"></a>
-  <a href="https://github.com/licht-launcher/licht-launcher/blob/main/LICENSE"><img src="https://img.shields.io/github/license/licht-launcher/licht-launcher" alt="MIT License"></a>
+  <a href="https://github.com/licht-launcher/licht-launcher/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20release-2563eb" alt="Download latest release"></a>
+  <a href="https://github.com/licht-launcher/licht-launcher/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-18794e" alt="MIT License"></a>
 </p>
 
 <p align="center">
